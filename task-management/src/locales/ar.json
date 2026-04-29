@@ -1,0 +1,200 @@
+{
+  "nav": {
+    "dashboardTitle": "لوحة التحكم",
+    "dashboardDec": "نظرة عامة على فرقك وأنشطتك",
+    "myTeamsTitle": "فِرَقي",
+    "myTeamsDec": "نظرة عامة على فرقك",
+    "notificationsTitle": "الإشعارات",
+    "notificationsDec": "إدارة الإشعارات الواردة",
+    "ourPlansTitle": "خططنا",
+    "ourPlansDec": "ارتقِ بإدارة فريقك بخطة مصممة حسب حجم عملك.",
+    "settingsTitle": "الإعدادات",
+    "settingsDec": "إدارة معلومات ملفك الشخصي.",
+    "createTeamTitle": "إنشاء فريق",
+    "createTeamDec": "إنشاء فريق جديد",
+    "updateTeamTitle": "تحديث الفريق"
+  },
+
+  "side_nav": {
+    "dashboard": "لوحة التحكم",
+    "myTeams": "فِرَقي",
+    "notifications": "الإشعارات",
+    "ourPlans": "خططنا",
+    "settings": "الإعدادات"
+  },
+
+  "dashboard": {
+    "title": "مرحبًا، ",
+    "subtitle": "نظرة عامة على فرقك وأنشطتك",
+    "totalTeams": "إجمالي الفرق",
+    "activeTasks": "المهام النشطة",
+    "pendingInvites": "الدعوات المعلقة",
+    "createFirstTask": "أنشئ أول مهمة لك",
+    "needsAction": "يتطلب إجراء",
+    "teamSumarizeTitle": "فرقك",
+    "viewAllTeams": "عرض الكل",
+    "joinRequestSumarizeTitle": "طلبات الانضمام",
+    "new": "جديد",
+    "tasks": "مهام",
+    "teams": "فرق"
+  },
+
+  "myTeamsPage": {
+    "showing": "عرض",
+    "activeTeams": "فرق نشطة",
+    "joinNewTeam": "الانضمام إلى فريق جديد",
+    "CreateNewTeamTittle": "إنشاء فريق جديد",
+    "CreateNewTeamDec": "ابدأ مساحة عمل جديدة"
+  },
+
+  "teamPage": {
+    "update": "تحديث",
+    "code": "كود الفريق",
+    "members": {
+      "title": "الأعضاء النشطون",
+      "members": "الأعضاء",
+      "role": "الدور",
+      "joined": "تاريخ الانضمام",
+      "actions": "الإجراءات"
+    },
+    "requests": {
+      "title": "الطلبات المعلقة",
+      "member": "العضو",
+      "actions": "الإجراءات",
+      "emptyTitle": ""
+    },
+    "tasks": {
+      "title": "المهام",
+      "addNewTask": "مهمة جديدة",
+      "toDo": "قيد التنفيذ",
+      "inProgress": "جارٍ التنفيذ",
+      "completed": "مكتملة",
+      "deleteTask": "حذف المهمة"
+    },
+    "chats": {
+      "title": "دردشة الفريق",
+      "channels": "القنوات",
+      "directMessages": "الرسائل المباشرة",
+      "isTyping": "يكتب الآن..."
+    }
+  },
+
+  "teamCard": {
+    "members": "الأعضاء",
+    "activeTasks": "المهام النشطة",
+    "openTeamWorkspace": "فتح مساحة عمل الفريق"
+  },
+
+  "createTeamPage": {
+    "title": "إنشاء فريق جديد",
+    "activeStep": "الخطوة الحالية",
+    "teamName": "اسم الفريق",
+    "teamDec": "الهدف / الوصف",
+    "createTeamSpace": "إنشاء مساحة الفريق"
+  },
+
+  "updateTeamPage": {
+    "title": "تحديث الفريق",
+    "activeStep": "الخطوة الحالية",
+    "teamName": "اسم الفريق",
+    "teamDec": "الهدف / الوصف",
+    "updateTeamSpace": "تحديث مساحة الفريق"
+  },
+
+  "notifications": {
+    "unReadNotifi": "الإشعارات غير المقروءة",
+    "allNotifi": "كل الإشعارات",
+    "nullMessages": "لا يوجد شيء هنا... بعد!",
+    "upToDate": "أنت على اطلاع دائم",
+    "markAsRead": "تحديد كمقروء",
+    "markAllAsRead": "تحديد الكل كمقروء"
+  },
+
+  "ourPlans": {
+    "currentPlan": "الخطة الحالية",
+    "mo": "شهريًا",
+    "unlimited": "غير محدود",
+    "rules": {
+      "maxCreated": "الحد الأقصى للفرق المنشأة",
+      "maxJoined": "الحد الأقصى للفرق المنضم إليها",
+      "basicTaskManagemnt": "إدارة مهام أساسية",
+      "openTeamChat": "دردشة فريق مفتوحة"
+    },
+    "getStarted": "ابدأ الآن",
+    "planActive": "الخطة مفعّلة",
+    "freePlan": {
+      "title": "المبتدئ",
+      "dec": "للأفراد والفرق الصغيرة التي تبدأ بإدارة منظمة.",
+      "free": "مجانية"
+    },
+    "proPlan": {
+      "title": "احترافية",
+      "dec": "افتح أدوات تعاون متقدمة ومرونة غير محدودة لنمو عملك.",
+      "pro": "احترافية"
+    },
+    "safeAndSecureTitle": "آمن ومحمي",
+    "safeAndSecureDec": "تشفير بمستوى المؤسسات ومراجعات أمنية دورية لحماية بيانات فريقك دائمًا.",
+    "scaleWithEaseTitle": "توسّع بسهولة",
+    "scaleWithEaseDec": "يمكنك ترقية أو تخفيض خطتك في أي وقت، ويتم تعديل الفاتورة تلقائيًا بدون رسوم مخفية.",
+    "supportTitle": "دعم 24/7",
+    "supportDec": "فريقنا المتخصص متواجد دائمًا لمساعدتك على الاستفادة القصوى من أدوات الإدارة."
+  },
+
+  "settingsPage": {
+    "title": "معلومات الملف الشخصي",
+    "profilePhoto": "الصورة الشخصية",
+    "updateDec": "تحديث الصورة الرمزية",
+    "fullName": "الاسم الكامل",
+    "email": "البريد الإلكتروني",
+    "deleteTitle": "حذف الحساب",
+    "deleteDec": "حذف حسابك وجميع بيانات الفرق بشكل نهائي.",
+    "deleteBtn": "إلغاء التفعيل"
+  },
+  "updateUser": {
+    "title": "تحديث المستخدم",
+    "userName": "اسم المستخدم",
+    "userEmail": "البريد الالكتروني",
+    "updateBtn": "تحديث المستخدم"
+  },
+
+  "emptyState": {
+    "noTeams": "لا توجد فرق بعد",
+    "noTeamsDesc": "ابدأ بإنشاء فريقك الأول أو انضم إلى فريق موجود.",
+    "createFirstTeam": "أنشئ فريقك الأول",
+    "noPendingRequests": "لا توجد طلبات معلقة",
+    "noPendingRequestsDesc": "سيتم إشعارك عند استلام طلب جديد."
+  },
+
+  "profile": {
+    "upgradePlan": "ترقية الخطة"
+  },
+
+  "common": {
+    "free": "مجانية",
+    "pro": "احترافية"
+  },
+
+  "login": {
+    "welcomeBack": "مرحبًا بعودتك",
+    "new": "جديد في TaskSync؟",
+    "createAccount": "إنشاء حساب",
+    "useEmail": "أو المتابعة باستخدام البريد الإلكتروني",
+    "forgotPass": "هل نسيت كلمة المرور؟",
+    "signInBtn": "تسجيل الدخول إلى الحساب"
+  },
+  "register": {
+    "haveAccount": "هل لديك حساب؟",
+    "loginWithEmail": "تسجيل الدخول بالبريد الإلكتروني",
+    "getStarted": "ابدأ الآن",
+    "userName": "الاسم الكامل",
+    "userEmail": "البريد الإلكتروني",
+    "userPass": "كلمة المرور",
+    "confirmPass": "تأكيد كلمة المرور",
+    "createPassBtn": "إنشاء حساب",
+    "welcomePage": {
+      "title": "غيّر طريقة عمل فريقك.",
+      "subTitle": "مهمة تلو الأخرى.",
+      "dec": "استمتع بتجربة تعاون سلسة من خلال منصتنا لإدارة المهام في الوقت الفعلي، والمصممة لتناسب أساليب العمل الحديثة."
+    }
+  }
+}

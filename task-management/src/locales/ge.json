@@ -1,0 +1,199 @@
+{
+  "nav": {
+    "dashboardTitle": "Dashboard",
+    "dashboardDec": "Übersicht über deine Teams und Aktivitäten",
+    "myTeamsTitle": "Meine Teams",
+    "myTeamsDec": "Übersicht über deine Teams",
+    "notificationsTitle": "Benachrichtigungen",
+    "notificationsDec": "Eingehende Benachrichtigungen verwalten",
+    "ourPlansTitle": "Unsere Pläne",
+    "ourPlansDec": "Optimiere dein Teammanagement mit einem Plan, der zu deiner Größe passt.",
+    "settingsTitle": "Einstellungen",
+    "settingsDec": "Verwalte deine Profilinformationen.",
+    "createTeamTitle": "Team erstellen",
+    "createTeamDec": "Ein neues Team erstellen",
+    "updateTeamTitle": "Team aktualisieren"
+  },
+
+  "side_nav": {
+    "dashboard": "Dashboard",
+    "myTeams": "Meine Teams",
+    "notifications": "Benachrichtigungen",
+    "ourPlans": "Unsere Pläne",
+    "settings": "Einstellungen"
+  },
+
+  "dashboard": {
+    "title": "Willkommen, ",
+    "subtitle": "Übersicht über deine Teams und Aktivitäten",
+    "totalTeams": "Gesamtanzahl Teams",
+    "activeTasks": "Aktive Aufgaben",
+    "pendingInvites": "Ausstehende Einladungen",
+    "createFirstTask": "Erstelle deine erste Aufgabe",
+    "needsAction": "Aktion erforderlich",
+    "teamSumarizeTitle": "Deine Teams",
+    "viewAllTeams": "Alle anzeigen",
+    "joinRequestSumarizeTitle": "Beitrittsanfragen",
+    "new": "NEU",
+    "tasks": "Aufgaben",
+    "teams": "Teams"
+  },
+
+  "myTeamsPage": {
+    "showing": "Anzeigen",
+    "activeTeams": "aktive Teams",
+    "joinNewTeam": "Neuem Team beitreten",
+    "CreateNewTeamTittle": "Neues Team erstellen",
+    "CreateNewTeamDec": "Einen neuen Arbeitsbereich starten"
+  },
+
+  "teamPage": {
+    "update": "Aktualisieren",
+    "code": "Team-Code",
+    "members": {
+      "title": "Aktive Mitglieder",
+      "members": "Mitglieder",
+      "role": "Rolle",
+      "joined": "Beigetreten",
+      "actions": "Aktionen"
+    },
+    "requests": {
+      "title": "Ausstehende Anfragen",
+      "member": "Mitglied",
+      "actions": "Aktionen",
+      "emptyTitle": ""
+    },
+    "tasks": {
+      "title": "Aufgaben",
+      "addNewTask": "Neue Aufgabe",
+      "toDo": "ZU ERLEDIGEN",
+      "inProgress": "IN BEARBEITUNG",
+      "completed": "ABGESCHLOSSEN",
+      "deleteTask": "Aufgabe löschen"
+    },
+    "chats": {
+      "title": "Team-Chat",
+      "channels": "Kanäle",
+      "directMessages": "Direct Messages",
+      "isTyping": "schreibt..."
+    }
+  },
+
+  "teamCard": {
+    "members": "Mitglieder",
+    "activeTasks": "Aktive Aufgaben",
+    "openTeamWorkspace": "Team-Arbeitsbereich öffnen"
+  },
+
+  "createTeamPage": {
+    "title": "Neues Team erstellen",
+    "activeStep": "Aktiver Schritt",
+    "teamName": "Teamname",
+    "teamDec": "Zweck / Beschreibung",
+    "createTeamSpace": "Team-Arbeitsbereich erstellen"
+  },
+
+  "updateTeamPage": {
+    "title": "Team aktualisieren",
+    "activeStep": "Aktiver Schritt",
+    "teamName": "Teamname",
+    "teamDec": "Zweck / Beschreibung",
+    "updateTeamSpace": "Team-Arbeitsbereich aktualisieren"
+  },
+
+  "notifications": {
+    "unReadNotifi": "Ungelesene Benachrichtigungen",
+    "allNotifi": "Alle Benachrichtigungen",
+    "nullMessages": "Noch nichts hier...",
+    "upToDate": "Du bist auf dem neuesten Stand",
+    "markAsRead": "Als gelesen markieren",
+    "markAllAsRead": "Alle als gelesen markieren"
+  },
+
+  "ourPlans": {
+    "currentPlan": "Aktueller Plan",
+    "mo": "Monat",
+    "unlimited": "Unbegrenzt",
+    "rules": {
+      "maxCreated": "Maximal erstellte Teams",
+      "maxJoined": "Maximal beigetretene Teams",
+      "basicTaskManagemnt": "Grundlegendes Aufgabenmanagement",
+      "openTeamChat": "Offener Team-Chat"
+    },
+    "getStarted": "Jetzt starten",
+    "planActive": "Plan aktiv",
+    "freePlan": {
+      "title": "STARTER",
+      "dec": "Für Einzelpersonen und kleine Teams, die mit strukturierter Verwaltung beginnen.",
+      "free": "Kostenlos"
+    },
+    "proPlan": {
+      "title": "Professional",
+      "dec": "Erweiterte Kollaborationstools und unbegrenzte Flexibilität für dein wachsendes Unternehmen.",
+      "pro": "Pro"
+    },
+    "safeAndSecureTitle": "Sicher & Geschützt",
+    "safeAndSecureDec": "Unternehmensgerechte Verschlüsselung und regelmäßige Sicherheitsprüfungen zum Schutz deiner Teamdaten.",
+    "scaleWithEaseTitle": "Einfach skalieren",
+    "scaleWithEaseDec": "Upgrade oder Downgrade jederzeit möglich. Die Abrechnung wird proportional angepasst, ohne versteckte Gebühren.",
+    "supportTitle": "24/7 Support",
+    "supportDec": "Unser engagiertes Team ist jederzeit für dich da, damit du das Beste aus deinen Management-Tools herausholen kannst."
+  },
+
+  "settingsPage": {
+    "title": "Profilinformationen",
+    "profilePhoto": "Profilbild",
+    "updateDec": "Avatar aktualisieren",
+    "fullName": "Vollständiger Name",
+    "email": "E-Mail-Adresse",
+    "deleteTitle": "Konto löschen",
+    "deleteDec": "Dein Konto und alle Teamdaten dauerhaft entfernen.",
+    "deleteBtn": "Deaktivieren"
+  },
+  "updateUser": {
+    "title": "Update User",
+    "userName": "User Name",
+    "userEmail": "E-mail-Adreese",
+    "updateBtn": "Aktualisieren User"
+  },
+
+  "emptyState": {
+    "noTeams": "Noch keine Teams",
+    "noTeamsDesc": "Erstelle dein erstes Team oder tritt einem bestehenden Team bei.",
+    "createFirstTeam": "Erstes Team erstellen",
+    "noPendingRequests": "Keine ausstehenden Anfragen",
+    "noPendingRequestsDesc": "Du wirst benachrichtigt, sobald eine neue Anfrage eingeht."
+  },
+
+  "profile": {
+    "upgradePlan": "Plan upgraden"
+  },
+
+  "common": {
+    "free": "kostenlos",
+    "pro": "pro"
+  },
+  "login": {
+    "welcomeBack": "Willkommen zurück",
+    "new": "Neu bei TaskSync?",
+    "createAccount": "Konto erstellen",
+    "useEmail": "Oder mit E-Mail fortfahren",
+    "forgotPass": "Passwort vergessen?",
+    "signInBtn": "Im Konto anmelden"
+  },
+  "register": {
+    "haveAccount": "Haben Sie bereits ein Konto?",
+    "loginWithEmail": "Mit E-Mail anmelden",
+    "getStarted": "Jetzt starten",
+    "userName": "Vollständiger Name",
+    "userEmail": "E-Mail-Adresse",
+    "userPass": "Passwort",
+    "confirmPass": "Passwort bestätigen",
+    "createPassBtn": "Konto erstellen",
+    "welcomePage": {
+      "title": "Verändern Sie die Art und Weise, wie Ihr Team arbeitet.",
+      "subTitle": "Eine Aufgabe nach der anderen.",
+      "dec": "Erleben Sie nahtlose Zusammenarbeit mit unserer Echtzeit-Aufgabenmanagement-Plattform, die für moderne Arbeitsabläufe entwickelt wurde."
+    }
+  }
+}

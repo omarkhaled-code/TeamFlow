@@ -1,0 +1,189 @@
+{
+  "nav": {
+    "dashboardTitle": "Dashboard",
+    "dashboardDec": "Overview of your teams and activities",
+    "myTeamsTitle": "My Teams",
+    "myTeamsDec": "Overview of your teams",
+    "notificationsTitle": "Notifications",
+    "notificationsDec": "Manage incoming notifications",
+    "ourPlansTitle": "Our Plans",
+    "ourPlansDec": "Elevate your team management with a plan designed for your scale.",
+    "settingsTitle": "Settings",
+    "settingsDec": "Manage your profile information.",
+    "createTeamTitle": "Create Team",
+    "createTeamDec": "Create a new team",
+    "updateTeamTitle": "Update Team"
+  },
+
+  "side_nav": {
+    "dashboard": "Dashboard",
+    "myTeams": "My Teams",
+    "notifications": "Notifications",
+    "ourPlans": "Our Plans",
+    "settings": "Settings"
+  },
+
+  "dashboard": {
+    "title": "Welcome, ",
+    "subtitle": "Overview of your teams and activities",
+    "totalTeams": "Total Teams",
+    "activeTasks": "Active Tasks",
+    "pendingInvites": "Pending Invites",
+    "createFirstTask": "Create your first task",
+    "needsAction": "Needs action",
+    "teamSumarizeTitle": "Your Teams",
+    "viewAllTeams": "View All",
+    "joinRequestSumarizeTitle": "Join Requests",
+    "new": "NEW",
+    "tasks": "tasks",
+    "teams": "teams"
+  },
+  "myTeamsPage": {
+    "showing": "Showing",
+    "activeTeams": "active teams",
+    "joinNewTeam": "Join New Team",
+    "CreateNewTeamTittle": "Create New Team",
+    "CreateNewTeamDec": "Start a fresh workspace "
+  },
+  "teamPage": {
+    "update": "Uddate",
+    "code": "Team Code",
+    "members": {
+      "title": "Active Members",
+      "members": "Members",
+      "role": "Role",
+      "joined": "Joined",
+      "actions": "Actions"
+    },
+    "requests": {
+      "title": "Pending Requests",
+      "member": "Member",
+      "actions": "Actions",
+      "emptyTitle": ""
+    },
+    "tasks": {
+      "title": "Tasks",
+      "addNewTask": "New Task",
+      "toDo": "TODO",
+      "inProgress": "IN PROGRESS",
+      "completed": "COMPLETED",
+      "deleteTask": "Delete Task"
+    },
+    "chats": {
+      "title": "Team Chat",
+      "channels": "Channels",
+      "directMessages": "Direct Messages",
+      "isTyping": "is typing..."
+    }
+  },
+  "teamCard": {
+    "members": "Members",
+    "activeTasks": "Active Tasks",
+    "openTeamWorkspace": "Open Team Workspace"
+  },
+  "createTeamPage": {
+    "title": "Create New Team",
+    "activeStep": "Active Step",
+    "teamName": "Team Name",
+    "teamDec": "Purpose / Description",
+    "createTeamSpace": "Create Team Space"
+  },
+  "updateTeamPage": {
+    "title": "Update Team",
+    "activeStep": "Active Step",
+    "teamName": "Team Name",
+    "teamDec": "Purpose / Description",
+    "updateTeamSpace": "Update Team Space"
+  },
+  "notifications": {
+    "unReadNotifi": "Un-Read Notifications",
+    "allNotifi": "All Notifications",
+    "nullMessages": "Nothing here... yet!",
+    "upToDate": "You're up to date",
+    "markAsRead": "Mark as read",
+    "markAllAsRead": "Mark All As Read"
+  },
+  "ourPlans": {
+    "currentPlan": "Current Plan",
+    "mo": "mo",
+    "unlimited": "Unlimited",
+    "rules": {
+      "maxCreated": "Max Created Teams",
+      "maxJoined": "Max Joined Teams",
+      "basicTaskManagemnt": "Basic Task Management",
+      "openTeamChat": "Open Team Chat"
+    },
+    "getStarted": "Get Started",
+    "planActive": "Plan Active",
+    "freePlan": {
+      "title": "STARTER",
+      "dec": "For individuals and small teams getting started with structured management.",
+      "free": "Free"
+    },
+    "proPlan": {
+      "title": "Professional",
+      "dec": "Unlock advanced collaboration tools and unlimited flexibility for your growing business.",
+      "pro": "Pro"
+    },
+    "safeAndSecureTitle": "Safe & Secure",
+    "safeAndSecureDec": "Enterprise-grade encryption and regular security audits to keep your team data protected at all times.",
+    "scaleWithEaseTitle": "Scale with Ease",
+    "scaleWithEaseDec": "Upgrade or downgrade your plan anytime. We adjust your billing proportionally without any hidden fees.",
+    "supportTitle": "24/7 Support",
+    "supportDec": "Our dedicated [#10b981] team is always here to help you get the most out of your management tools."
+  },
+  "settingsPage": {
+    "title": "Profile Information",
+    "profilePhoto": "Profile Photo",
+    "updateDec": "Update your avatar",
+    "fullName": "Full Name",
+    "email": "Email Address",
+    "deleteTitle": "Delete Account",
+    "deleteDec": "Permanently remove your account and all team data.",
+    "deleteBtn": "Deactivate"
+  },
+  "updateUser": {
+    "title": "Update User",
+    "userName": "User Name",
+    "userEmail": "User Email",
+    "updateBtn": "Update User"
+  },
+  "emptyState": {
+    "noTeams": "No Teams Yet",
+    "noTeamsDesc": "Get started by creating your first team or join an existing one.",
+    "createFirstTeam": "Create Your First Team",
+    "noPendingRequests": "No Pending Requests",
+    "noPendingRequestsDesc": "You'll be notified when you receive new request."
+  },
+
+  "profile": {
+    "upgradePlan": "Upgrade Plan"
+  },
+  "common": {
+    "free": "free",
+    "pro": "pro"
+  },
+  "login": {
+    "welcomeBack": "Welcome back",
+    "new": "New to TaskSync?",
+    "createAccount": "Create An Account",
+    "useEmail": "Or continue with email",
+    "forgotPass": "Forgot Password",
+    "signInBtn": "Sign In to Account"
+  },
+  "register": {
+    "haveAccount": "Do You Have Account?",
+    "loginWithEmail": "Login With Email",
+    "getStarted": "Get Started",
+    "userName": "Full Name",
+    "userEmail": "Email address",
+    "userPass": "Password",
+    "confirmPass": "Confirm password?",
+    "createPassBtn": "Create An Account",
+    "welcomePage": {
+      "title": "Transform the way your team works.",
+      "subTitle": "One task at a time.",
+      "dec": "Experience seamless collaboration with our real-time task management platform, built for modern workflows."
+    }
+  }
+}
